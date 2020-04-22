@@ -1,2 +1,8 @@
 #!/bin/bash
 wget -q -O wordEmbeddings.h5 "https://unedo365-my.sharepoint.com/:u:/g/personal/malmagro_lsi_uned_es/ES65Cgd9NXVDixwwbKlQaccB5jJYgm2YdDqGXkWNngpLzA?e=lueHtM&download=1"
+pip install tables
+pip install unidecode
+pip install pandas
+pip install scikit-learn
+pip install voila
+jupyter serverextension enable voila --sys-prefix
