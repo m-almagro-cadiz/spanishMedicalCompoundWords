@@ -6,5 +6,5 @@ pip install pandas
 pip install scikit-learn
 pip install voila
 pip install ipywidgets
-jupyter serverextension enable voila
-jupyter nbextension enable --py widgetsnbextension
+jupyter serverextension enable voila --sys-prefix
+jupyter nbextension enable --py widgetsnbextension --sys-prefix
