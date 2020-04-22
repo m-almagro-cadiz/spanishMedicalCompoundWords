@@ -5,4 +5,6 @@ pip install unidecode
 pip install pandas
 pip install scikit-learn
 pip install voila
-jupyter serverextension enable voila --sys-prefix
+pip install ipywidgets
+jupyter serverextension enable voila
+jupyter nbextension enable --py widgetsnbextension
