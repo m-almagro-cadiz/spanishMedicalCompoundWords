@@ -183,7 +183,7 @@ for w in freq:
 freq = Counter(freq_)
 freqAcc = sum([freq[w] for w in freq])
 
-medicalSuffixes.update(otherMedicalPrefixes)
+medicalPrefixes.update(otherMedicalPrefixes)
 prefixes = list(set(medicalPrefixes.keys()))
 suffixes = list(set(medicalSuffixes.keys()))
 
