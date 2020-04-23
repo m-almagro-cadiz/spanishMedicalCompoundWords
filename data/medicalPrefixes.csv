@@ -1,4 +1,4 @@
-a	no
+a	contrario
 ab	separación
 abdomino	abdomen
 abdomin	abdomen
@@ -20,7 +20,7 @@ ambi	ambos
 ambli	obtuso
 amigdalo	amígdalas	almendra
 amigdal	amígdalas	almendra
-an	no
+an	contrario
 ana	atrás
 andro	hombre
 anemo	viento
@@ -34,7 +34,7 @@ anquil	encorvado
 ante	delante
 anter	delante
 antero	delante
-anti	contra
+anti	contrario
 antropo	hombre
 apici	ápice
 apic	ápice
@@ -93,7 +93,7 @@ calo	bello
 carcino	cáncer
 cardio	corazón
 cario	núcleo
-cata	contra
+cata	abajo
 caud	cola
 caudo	cola
 cef	antibiótico_derivado_del_ácido_cefalosporánico
@@ -136,7 +136,7 @@ colp	vagina
 colpo	vagina
 condro	cartílago
 condr	cartílago
-contra	opuesto
+contra	contrario
 copro	excremento
 cordi	corazón
 core	pupila
@@ -162,7 +162,7 @@ dacri	lágrima
 dacrio	lágrima
 dactilo	dedo
 dactil	dedo
-de	no
+de	contrario
 deca	diez
 deci	diez
 delo	visible
@@ -177,7 +177,7 @@ denti	diente
 derm	piel
 dermo	piel
 dermato	piel
-des	no
+des	contrario
 deuter	segundo
 deuto	segundo
 deutero	segundo
@@ -411,7 +411,7 @@ idi	propio
 ile	intestino
 ileo	intestino
 ilio	hueso_ilion
-in	negación	dentro
+in	contrario	dentro
 infra	debajo
 inter	en_medio
 intra	dentro
